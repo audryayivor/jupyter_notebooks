@@ -3,5 +3,5 @@
 
 ## Jupyter Notebooks
 <ul>
-  <ul>Exploratory Data Analysis: Automobile Miles per Gallon</li>
+  <li>Exploratory Data Analysis: Automobile Miles per Gallon</li>
 </ul>
