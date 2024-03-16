@@ -1,4 +1,4 @@
-# RESOURCES: NOTEBOOKS & SCRIPTS 
+# RESOURCES: NOTEBOOKS & SQL SCRIPTS 
 ![Jupyter Notebooks](https://github.com/audryayivor/jupyter_notebooks/blob/main/aa_github_jupyternotebooks_pic.png)
 
 ## Jupyter Notebooks
@@ -7,5 +7,7 @@
 </ul>
 
 ## SQL Scripts
-
+<ul>
+  <li>SQL Script: Create Database, Add Table, Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_1_create_database_add_table_add_records.sql "> click here </a></li>
+</ul>
 
