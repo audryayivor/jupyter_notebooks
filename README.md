@@ -3,7 +3,7 @@
 
 ## Jupyter Notebooks
 <ul>
-  <li>Exploratory Data Analysis: Automobile Miles per Gallon: <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/online_article_medium_eda_auto_mpg.ipynb"> click here </a></li>
+  <li>Exploratory Data Analysis: Automobile Miles per Gallon: <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/online_article_medium_eda_auto_mpg.ipynb"> SQL script </a></li>
 </ul>
 
 ## SQL Scripts
