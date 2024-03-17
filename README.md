@@ -13,9 +13,7 @@
 
 <ul>
   <li>
-    SQL Script: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> click here </a>, 
-
-    <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> Fake ratings </a>  
+    SQL Script: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> click here </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> Fake ratings </a>  
   
   </li>
 
