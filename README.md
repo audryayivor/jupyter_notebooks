@@ -3,12 +3,12 @@
 
 ## Jupyter Notebooks
 <ul>
-  <li>Exploratory Data Analysis: Automobile Miles per Gallon: <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/online_article_medium_eda_auto_mpg.ipynb"> SQL script </a></li>
+  <li>Exploratory Data Analysis: Automobile Miles per Gallon: <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/online_article_medium_eda_auto_mpg.ipynb"> Jupyter Notebook </a></li>
 </ul>
 
 ## SQL Scripts
 <ul>
-  <li>SQL Tutorial #1: Create Database, Add Table, Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_1_create_database_add_table_add_records.sql "> click here </a></li>
+  <li>SQL Tutorial #1: Create Database, Add Table, Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_1_create_database_add_table_add_records.sql "> SQL script </a></li>
 </ul>
 
 <ul>
