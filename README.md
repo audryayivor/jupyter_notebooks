@@ -8,12 +8,12 @@
 
 ## SQL Scripts
 <ul>
-  <li>SQL Script: Create Database, Add Table, Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_1_create_database_add_table_add_records.sql "> click here </a></li>
+  <li>SQL Tutorial #1: Create Database, Add Table, Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_1_create_database_add_table_add_records.sql "> click here </a></li>
 </ul>
 
 <ul>
   <li>
-    SQL Script: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_ratings.csv "> Fake ratings data </a>,  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_location.csv "> Locations data </a>,  
+    SQL Tutorial #2: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_ratings.csv "> Fake ratings data </a>,  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_location.csv "> Locations data </a>,  
   
   </li>
 
