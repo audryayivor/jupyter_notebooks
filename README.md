@@ -17,7 +17,14 @@
   
   </li>
 
-
+<ul>
+  <li>
+    SQL Tutorial #3: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_3_practise_sql_queries_joins_case_statements_aggregations_strings.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_3_zipped.zip "> Datasets </a>,  
+  
+  </li>
   
 </ul>
 
+
+
+ 
