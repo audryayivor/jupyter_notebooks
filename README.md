@@ -14,14 +14,14 @@
 
 <ul>
   <li>
-    SQL Tutorial #2: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_ratings.csv "> Fake ratings data </a>,  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_location.csv "> Locations data </a> 
+    SQL Tutorial #2: SQL Tutorial | Practice 13 Queries | LIKE | WHERE | GROUPBY | HAVING | ORDER BY | Aggregations: <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_2_practise_sql_queries_create_database_import_data.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_ratings.csv "> Fake ratings data </a>,  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_autompg_fake_location.csv "> Locations data </a> 
   </li>
 </ul> 
 
 
 <ul>
   <li>
-    SQL Tutorial #3: Practice 14 SQL Queries | Create Database and Import Data:  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_3_practise_sql_queries_joins_case_statements_aggregations_strings.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_3_zipped.zip "> Datasets </a> 
+    SQL Tutorial #3: SQL Tutorial | Practice 13 Queries | JOINS | CASE Statement | Sub-Queries| String Operations | Aggregations::  <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/sql_tutorial_3_practise_sql_queries_joins_case_statements_aggregations_strings.sql "> SQL script </a>, <a href="https://github.com/audryayivor/jupyter_notebooks/blob/main/data_sql_tutorial_3_zipped.zip "> Datasets </a> 
   
   </li>
   
